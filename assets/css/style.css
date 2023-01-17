@@ -523,6 +523,11 @@ button:hover{
         width: 1000px;
 
     }
+    
+    .banner_headline h1{
+            font-size: 65px;
+    }
+        
 
     }
 
