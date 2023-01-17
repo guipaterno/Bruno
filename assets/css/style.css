@@ -70,7 +70,7 @@ nav .active a, nav a:hover {
 #banner {
     display:flex;
     justify-content: center;
-    background-image:url('/Bruno/assets/images/bg_bruno.jpg');
+    background-image:url(/Bruno/assets/images/bg_bruno.jpg);
     background-position: center;
     background-size: cover;
     height: 800px;
